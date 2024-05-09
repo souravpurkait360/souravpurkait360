@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Django, PostgreSQL, ReactJS (NextJS SSR+SSG+Server Components), AWS and Langchain<br>👯 I’m looking to collaborate on any Python or Javascript or Typescript projects<br>🤝 I’m looking for help with Kubernetes cluster and zookeeper<br>🌱 I’m currently learning neo4j, LLM and other AI/ML stuffs<br>💬 Ask me about anything related to AI/ML/Dev/Quantum Computing<br>📫 Reach me at souravpurkait360@gmail.com<br>👨‍💻 All of my projects are available at my github profile<br>📝 I regularly write articles on https://medium.com/@souravpurkait360<br>📄 Know about my experiences https://drive.google.com/file/d/1-uwlajtCdDvP9OftC7W6Y7TowkWWKHVo/view?usp=sharing
+🔭 I’m currently working on Django, PostgreSQL, ReactJS (NextJS SSR+SSG+Server Components), AWS and Langchain<br>👯 I’m looking to collaborate on any Python or Javascript or Typescript projects<br>🤝 I’m looking for help with Kubernetes cluster and zookeeper<br>🌱 I’m currently learning neo4j, LLM and other AI/ML stuffs<br>💬 Ask me about anything related to AI/ML/Dev/Quantum Computing<br>📫 Reach me at souravpurkait360@gmail.com<br>👨‍💻 My experiences can be seen at https://souravpurkait.netlify.app/<br>📝 I regularly write articles on https://medium.com/@souravpurkait360<br>📄 Know about my experiences https://drive.google.com/file/d/1-uwlajtCdDvP9OftC7W6Y7TowkWWKHVo/view?usp=sharing
 
 
 ## 🌐 Socials:
